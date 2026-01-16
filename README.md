@@ -1,2 +1,3 @@
 # Git
-git example
+this is a git.
+
